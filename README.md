@@ -14,4 +14,4 @@ This is a Java implementation of a sliding block puzzle game. Players need to sl
 <img width="303" alt="screen shot 2018-12-21 at 1 07 36 am" src="https://user-images.githubusercontent.com/44324724/50327458-379ee100-04bd-11e9-92c1-cc1792ffdf4c.png">
 
 ### Sources
-All emoji imaged are sourced from Google Images.
+All emoji images are sourced from Google Images.
